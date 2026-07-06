@@ -1,4 +1,3 @@
-┌⁠(⁠𝑂𝑄⁠⁠( (^◕.◕^)), [06/07/2026 10:34 م]
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                      WELCOME TO MY GITHUB PROFILE                          ║
@@ -68,7 +67,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Divider" width="100%" />
 </p>
 
-┌⁠(⁠𝑂𝑄⁠⁠( (^◕.◕^)), [06/07/2026 10:34 م]
 <!-- ============================================= -->
 <!-- TECH STACK - PROGRAMMING LANGUAGES           -->
 <!-- ============================================= -->
@@ -119,9 +117,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-
-┌⁠(⁠𝑂𝑄⁠⁠( (^◕.◕^)), [06/07/2026 10:34 م]
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -182,8 +178,6 @@
 
 <!-- ============================================= -->
 <!-- GITHUB CONTRIBUTION SNAKE ANIMATION          -->
-
-┌⁠(⁠𝑂𝑄⁠⁠( (^◕.◕^)), [06/07/2026 10:34 م]
 <!-- ============================================= -->
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
@@ -275,7 +269,6 @@
        alt="Coding GIF" width="400" />
 </p>
 
-┌⁠(⁠𝑂𝑄⁠⁠( (^◕.◕^)), [06/07/2026 10:34 م]
 <p align="center">
   <img src="https://ghchart.rshah.org/engosamaali7" 
        alt="GitHub Contribution Calendar (rshah)" />
@@ -362,9 +355,7 @@
   </a>
   <a href="https://linkedin.com/in/engosamaali7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-┌⁠(⁠𝑂𝑄⁠⁠( (^◕.◕^)), [06/07/2026 10:34 م]
-</a>
+  </a>
   <a href="https://twitter.com/engosamaali7">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
